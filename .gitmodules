@@ -1,3 +1,6 @@
 [submodule "LINUX/apdu_gui/ufr-lib"]
 	path = LINUX/apdu_gui/lib
 	url = https://git.d-logic.net/nfc-rfid-reader-sdk/ufr-lib.git
+[submodule "WINDOWS/apdu_gui/ufr-lib"]
+	path = WINDOWS/apdu_gui/lib
+	url = https://git.d-logic.net/nfc-rfid-reader-sdk/ufr-lib.git
